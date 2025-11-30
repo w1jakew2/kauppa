@@ -1,0 +1,7 @@
+123;Virveli;57
+234;Mato-onki;5
+456;Koukku;0.2;
+567;Siima;8
+568;Koho;2125;koukku;10
+569;koho;11
+
